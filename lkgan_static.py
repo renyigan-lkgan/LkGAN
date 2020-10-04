@@ -20,7 +20,7 @@ else:
     alpha = 0
     beta = 1
 if int(version) == 3:
-    gamma = 0
+    gamma = 1
 else:
     gamma = (alpha + beta)/2.0
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'

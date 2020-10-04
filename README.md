@@ -24,7 +24,7 @@ The table below details this information:
 | :---: | :---: | :---: | :---: |
 | 1 | 0.6 | 0.4 | 0.5 |
 | 2 | 1 | 0 | 0.5 |
-| 3 | 0 | 1 | 0 |
+| 3 | 0 | 1 | 1 |
 
 Note that if you input k = 2, you will run LSGAN. 
 
