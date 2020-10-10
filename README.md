@@ -49,3 +49,5 @@ We used the Adam optimizer with a learning rate of
 &epsilon; = 1 x 10<sup>-7</sup> for both networks.
 The batch size was chosen to be 100 for the 60,000 MNIST images.
 The total number of epochs was 100 for the MNIST images.
+
+You can find sample plots and generated images in `images\` file.  
